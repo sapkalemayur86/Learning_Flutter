@@ -66,7 +66,7 @@ class MyApp extends StatelessWidget {
               )
             ],
           ),
-          padding: EdgeInsets.all(50),
+          padding: EdgeInsets.all(40),
         ),
       ),
     );
